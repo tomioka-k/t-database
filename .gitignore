@@ -1,0 +1,6 @@
+/database/
+/db/data
+
+# django
+__pycache__
+.env
